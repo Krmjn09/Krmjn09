@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Kriti Mahajan
-- 👀 I’m interested in Web Dev and Coding
-- 🌱 I’m currently learning Full Stack and DSA
-
-
-<!---
-Krmjn09/Krmjn09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Kriti Mahajan, a Computer Science student at Thapar Institute of Engineering and Technology (Class of 2026).
+- 💻 Full Stack Developer with a passion for creating intuitive and responsive websites.
+- 🌱 Constantly learning and exploring the latest in web development technologies.
+- 🚀 Experienced in building projects that integrate both frontend and backend technologies.
+- 🎯 Focused on turning ideas into reality through clean, efficient code.
+- 🧠 Actively practicing Data Structures and Algorithms (DSA) to enhance problem-solving skills.
+- 📚 Always up for new challenges and opportunities to grow.
