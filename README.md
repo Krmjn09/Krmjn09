@@ -2,6 +2,5 @@
 - 💻 Full Stack Developer with a passion for creating intuitive and responsive websites.
 - 🌱 Constantly learning and exploring the latest in web development technologies.
 - 🚀 Experienced in building projects that integrate both frontend and backend technologies.
-- 🎯 Focused on turning ideas into reality through clean, efficient code.
 - 🧠 Actively practicing Data Structures and Algorithms (DSA) to enhance problem-solving skills.
 - 📚 Always up for new challenges and opportunities to grow.
