@@ -2,6 +2,7 @@
 <h3 align="center">A Computer Science student at Thapar Institute of Engineering and Technology (Class of 2026)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krmjn09&label=Profile%20views&color=0e75b6&style=flat" alt="krmjn09" /> </p>
+
 - 👯 I’m 2025 GSOC contributor @CERN-HSF**
 
 - 🔭 I’m currently working on **Web developement Projects** and **Machine Learning Projects**
